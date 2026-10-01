@@ -1,4 +1,4 @@
-![TorGhost Banner](https://github.com/INTELEON404/Template/blob/main/torghost.png)
+![TorGhost Banner](https://github.com/loxray303/Template/blob/main/torghost.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python3-blue?style=for-the-badge&logo=python">
